@@ -38,7 +38,7 @@ if (_isMan && {!_isAlive} && {!(_cursorTarget isKindOf "Animal")} && {player dis
 		player removeAction s_player_checkWallet;
 		s_player_checkWallet = -1;
 	};
-	```
+```
   
   Replace by:
   
