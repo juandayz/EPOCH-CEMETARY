@@ -1,5 +1,9 @@
 # EPOCH-CEMETARY
 
+PLEASE DONATE: https://github.com/juandayz/EPOCH-CEMETARY/blob/master/DONATION.md
+
+
+
 Relocate all players corpses into cemetarys. with a grave, a cross and a box with all his items and coins. Cemetarys are randomly but you need define the random coords. Actually are seted in Chernarus Churchs. If u wanna change the locations edit those lines:
 
 ```ruby
